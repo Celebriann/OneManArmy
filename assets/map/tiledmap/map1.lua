@@ -9,7 +9,7 @@ return {
   tilewidth = 16,
   tileheight = 16,
   nextlayerid = 10,
-  nextobjectid = 24,
+  nextobjectid = 26,
   properties = {},
   tilesets = {
     {
@@ -1363,6 +1363,19 @@ return {
           y = 771.333,
           width = 24,
           height = 29.3333,
+          rotation = 0,
+          visible = true,
+          properties = {}
+        },
+        {
+          id = 25,
+          name = "",
+          type = "",
+          shape = "rectangle",
+          x = 469,
+          y = 1281.5,
+          width = 656,
+          height = 83,
           rotation = 0,
           visible = true,
           properties = {}
